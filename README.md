@@ -2,4 +2,4 @@
 
 ## Demographic Filtering
 ## Content-Based Filtering
-### Collaborative Filtering
+## Collaborative Filtering
